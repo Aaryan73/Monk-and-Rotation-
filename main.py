@@ -1,4 +1,8 @@
-def intlistelement(numlist):   # convert the items of list into integer
+'''
+Author: Aaryan Regmi
+'''
+
+def intlistelement(numlist):   # convert the string items of list into integer
   for j in range(len(numlist)):
     numlist[j] = int(numlist[j])
   return numlist
