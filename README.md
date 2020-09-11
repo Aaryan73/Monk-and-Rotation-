@@ -21,7 +21,10 @@ Sample Output
 Explanation
 Here T is 1, which means one test case.
  denoting the number of elements in the array and , denoting the number of steps of rotations.
-The initial array is: 
+The initial array is:
+1 2 3 4 5
+
 In first rotation, 5 will come in the first position and all other elements will move to one position ahead from their current position. Now, the resultant array will be 
-In second rotation, 4 will come in the first position and all other elements will move to one position ahead from their current position. Now, the resultant array will be 
+In second rotation, 4 will come in the first position and all other elements will move to one position ahead from their current position. Now, the resultant array will be:
+4 5 1 2 3
 
