@@ -15,14 +15,14 @@ Print the required array.
 Sample Input
 
 1
-
 5 2
-
 1 2 3 4 5
 
 Sample Output
 4 5 1 2 3
+
 Explanation
+
 Here T is 1, which means one test case.
  denoting the number of elements in the array and , denoting the number of steps of rotations.
 The initial array is:
