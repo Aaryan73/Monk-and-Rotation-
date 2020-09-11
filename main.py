@@ -30,6 +30,6 @@ while i <= t:                          #
     numlist = input().split(" ")
     intlist = intlistelement(numlist)     # list items gets converted into integer
     intlist = rotate(intlist, k)      # brings last elements to first
-    intlist = output(intlist, n)     # formats the items of intlist for output
+    intlist = output(intlist, n)     # formats the items of intlist to match with required output
     print(intlist)
     i += 1
